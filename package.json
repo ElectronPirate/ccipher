@@ -4,11 +4,11 @@
   "description": "Caesar cipher",
   "main": "index.js",
   "scripts": {
-     "start": "node ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paweledinburgh/ccipher.git"
+    "url": "git+https://github.com/ElectronPirate/ccipher.git"
   },
   "keywords": [
     "caesar",
